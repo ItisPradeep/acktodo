@@ -39,7 +39,7 @@ const Signup=(props)=>{
             function adduser(){
     
     setuser([...user,{username:eusername,password:epassword}])
-    navigate("/Login")
+    navigate("/")
     
             }
     
