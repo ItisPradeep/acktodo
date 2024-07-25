@@ -70,7 +70,7 @@ const Signup=(props)=>{
     <div className="ml-8 mt-1">
     
     
-        <p>Already have an account? <Link className="underline" to={"/Login"}>Login </Link></p>
+        <p>Already have an account? <Link className="underline" to={"/"}>Login </Link></p>
     </div>
     
     </div>
